@@ -9,7 +9,7 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 
 ### Links
 
-- Solution URL: [here](https://github.com/zdenman/QR-code-component)
+- Solution URL: [here](https://github.com/zdenman/Sunnyside-agency-landing-page)
 - Live Site URL: [here](http://qr-code-component-zdenman.vercel.app/)
 
 
