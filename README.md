@@ -10,7 +10,7 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 ### Links
 
 - Solution URL: [here](https://github.com/zdenman/Sunnyside-agency-landing-page)
-- Live Site URL: [here](http://qr-code-component-zdenman.vercel.app/)
+- Live Site URL: [here](https://sunnyside-agency-landing-page-drab.vercel.app)
 
 
 
