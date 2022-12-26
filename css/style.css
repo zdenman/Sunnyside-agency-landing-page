@@ -116,7 +116,7 @@
 }
 
 body {
-  background-color: black;
+  background-color: var(--darkBlue);
 }
 
 .max-width {
